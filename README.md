@@ -14,7 +14,7 @@
 
 
 
-<img  align='right' src="https://github.com/Priyanshiguptaaa/Priyanshiguptaaa/blob/main/computer.gif" width="530" height="420">
+<img  align='right' src="https://github.com/nishan-iicm/Nishan-Agarwal/blob/main/comp.gif" width="530" height="420">
 <br>
 
 🎓 - I am a Final year Computer Science Undergraduate Student and my drive to develop is ignited by my passion to solve problems with technology.
