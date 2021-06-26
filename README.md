@@ -1,14 +1,6 @@
 <p align="center">  <img src="https://komarev.com/ghpvc/?username=your-github-nishan-iicm&label=PROFILE+VIEWS" alt="nishan" />    
 <br>
-<p align="center">
-<br/>
 
-<a href="https://www.linkedin.com/in/nishan-agarwal-576717194/">
-  <img alt="nishanagarwal's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-
-
-</p>
 
 <h1> { Hey There! I'm Nishan  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> }</h2>
 
